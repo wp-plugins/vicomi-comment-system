@@ -4,7 +4,7 @@ Donate link: http://www.vicomi.com
 Tags: Vicomi, comments, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
 Requires at least: 2.8 or higher
 Tested up to: 3.5.2
-Stable tag: 1.02
+Stable tag: 1.03
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,7 +98,8 @@ Sorry currently no. But, in the near future you will be able to choose your own 
 * Small changes in graphics 
 = 1.02 =
 * Faster comments uploads. New addition to the moderation page.
-
+= 1.03 =
+* Fix: Small bug. Adding product screenshot.
 
 
 == Upgrade Notice ==
@@ -111,6 +112,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.02 =
 * Faster comments uploads. New addition to the moderation page.
+
+= 1.03 =
+* Fix: Small bug. Adding product screenshot.
 
 
 == A brief Markdown Example ==
