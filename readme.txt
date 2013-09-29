@@ -1,22 +1,25 @@
-=== Plugin Name ===
+=== Comments by Vicomi ===
 Contributors: Vicomi
 Donate link: http://www.vicomi.com
-Tags: Vicomi, comments, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
+Tags: comments, comment, vicomi, comments SEO, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
 Requires at least: 2.8 or higher
 Tested up to: 3.5.2
-Stable tag: 1.03
+Stable tag: 1.04
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Vicomi new comment system platform: Emotional · Styleable · Personalized · Free . Hosted and powered by Vicomi.
+Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
 == Description ==
 
-Vicomi comments is a free comment platform with a new cool, Stylish graphic interface.  The platform presents web-based comments in a visual, 
+Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface.  The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
-(internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience. 
-The Vicomi for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once.
-All data is stored at Vicomi(amazon) servers with no cost. 
+(internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). 
+The Vicomi comments for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once.
+All comments can be moderated in Vicomi comments moderation dashboard. Comments can be approved or deleted via this system.
+All data (comments) is stored at Vicomi(amazon) servers with no cost.
+
+** Comments Demo: ** [www.vicomi.com/demo](http://www.vicomi.com/demo) 
 
 = Vicomi for WordPress =
 
@@ -48,12 +51,12 @@ Installation
 
 1. Download Vicomi Comments plugin file. 
 1. In your WP Admin panel click on Plugins (Admin menu on the left) 
-1. Add New plugin from the Plugins menu. 
-1. Upload the file (choose the vicomi.zip plugin file) to the 'wp-content/plugins/' directory inside of WordPress and then click Install Now. 
-1. After the installation has completed, click Activate Plugin. 
-1. Add your Vicomi account details, or create a new account (from vicomi.com website) if needed. 
+1. Add New comments plugin from the Plugins menu. 
+1. Upload the file (choose the vicomi-comments.zip plugin file) to the 'wp-content/plugins/' directory inside of WordPress and then click Install Now. 
+1. After the comments plugin installation has completed, click Activate comments Plugin. 
+1. Add your Vicomi comments account details, or create a new account (from vicomi.com website) if needed. 
 
-Via wordpress plugin page - Login to wordpress plugin page, search for vicomi plugin, install it, activate it, enter your Vicomi account details and your done.
+Via wordpress comments plugin page - Login to wordpress comments plugin page, search for vicomi comments plugin, install it, activate it, enter your Vicomi comments account details and your done.
 
 More documentation
 
@@ -73,13 +76,21 @@ Please go to http://www.vicomi.com
 
 Yes, you can sign up for free and get your free account and free comment platform.
 
-= How do I get to the moderation page after I register? = 
+= How many comments per article/page can my users write? = 
 
-You will get an email with all the information.
+You have unlimited comments per page.
+
+= Do you support facebook login? = 
+
+Yes we do. Your users can register or write comments with their facebook account. Comments are not sent automatically to the facebook wall. 
+
+= How do I get to the comments moderation page after I register? = 
+
+You will get an email with all the information. Or, go to the moderation comments page at: http://dashboard.vicomi.com/
 
 = How long till I see the recommendation widget working? = 
 
-The recommendation box has 4 comments to recommend. You need at least 4 comments inside your website till you see all of the 4 comments-recommendation. The more you have the better the recommendation algorithm workd
+The recommendation box has 4 comments to recommend. You need at least 4 comments inside your website till you see all of the 4 comments-recommendation. The more comments you have the better the recommendation algorithm works.
 
 = Can I change the emoticons (icons) to what I choose? = 
 
@@ -87,7 +98,7 @@ Sorry currently no. But, in the near future you will be able to choose your own 
 
 == Screenshots ==
 
-1. This screen shot shows Vicomi comment system and recommendation system.
+1. This screen shot shows Vicomi comments system and recommendations system. Comments are in colors according to your emotions. Please see our comments platform in action in our comments demo file.
 
 == Changelog ==
 
@@ -100,6 +111,8 @@ Sorry currently no. But, in the near future you will be able to choose your own 
 * Faster comments uploads. New addition to the moderation page.
 = 1.03 =
 * Fix: Small bug. Adding product screenshot.
+= 1.04 =
+* Even faster comments uploading. Changes in the comments moderation page. Additional icons and design. Better facebook comments support.
 
 
 == Upgrade Notice ==
@@ -115,6 +128,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.03 =
 * Fix: Small bug. Adding product screenshot.
+
+= 1.04 =
+* Even faster comments uploading. Changes in the comments moderation page. Additional icons and design. Better facebook comments support.
 
 
 == A brief Markdown Example ==
