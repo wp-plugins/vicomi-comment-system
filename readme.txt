@@ -2,17 +2,17 @@
 Contributors: Vicomi
 Donate link: http://www.vicomi.com
 Tags: comments, comment, vicomi, comments SEO, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
-Requires at least: 2.8 or higher
-Tested up to: 3.5.2
-Stable tag: 1.05
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires at least: 2.8 or higher
+Tested up to: 3.5.2
+Stable tag: 1.06
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
 == Description ==
 
-Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface.  The platform presents web-based comments in a visual, 
+Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface. The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
 (internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). 
 The Vicomi comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
@@ -115,7 +115,8 @@ Sorry currently no. But, in the near future you will be able to choose your own 
 * Even faster comments uploading. Changes in the comments moderation page. Additional icons and design. Better facebook comments support.
 = 1.05 =
 * Improved recommendation widget to get higherr click rate and hence higher page-view. New profile page. Faster facebook login.
-
+= 1.06 =
+* Replace readme file to indicate of version 1.06.
 
 == Upgrade Notice ==
 
@@ -136,6 +137,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.05 =
 * Improved recommendation widget to get higherr click rate and hence higher page-view. New profile page. Faster facebook login.
+
+= 1.06 =
+* Replace readme file to indicate of version 1.06.
 
 == A brief Markdown Example ==
 
