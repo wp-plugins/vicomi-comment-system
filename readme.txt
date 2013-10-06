@@ -4,7 +4,7 @@ Donate link: http://www.vicomi.com
 Tags: comments, comment, vicomi, comments SEO, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
 Requires at least: 2.8 or higher
 Tested up to: 3.5.2
-Stable tag: 1.04
+Stable tag: 1.05
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Best comments system. Vicomi new comments system platform: Emotional · Styleable
 Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface.  The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
 (internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). 
-The Vicomi comments for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once.
+The Vicomi comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
 All comments can be moderated in Vicomi comments moderation dashboard. Comments can be approved or deleted via this system.
 All data (comments) is stored at Vicomi(amazon) servers with no cost.
 
@@ -26,10 +26,10 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. Allowing stylish emotional comments.
 1. Not Only is it Free, It increases your users engagement to your website.
 1. Increase page views amount by 3%-10% (more traffic!) thanks to recommendation widget that recommends other content (comments) within your website.
-1. Easy to install, 5 minutes installation!
+1. Easy to install, 5 minutes installation! Add comments platform for free.
 1. Allowing moderation tools, moderation insights, spam tools.
 1. Comments indexable by search engines (iFrame SEO-friendly).
-1. Attach your feelings to a comment. 
+1. Attach your feelings to a comment. Create better comments experience. 
 1. Uses the Vicomi API. Give you free admin and analytics tools.
 
 = Vicomi Features =
@@ -49,7 +49,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 
 Installation
 
-1. Download Vicomi Comments plugin file. 
+1. Download Vicomi Comments plugin file to add comments to your website. 
 1. In your WP Admin panel click on Plugins (Admin menu on the left) 
 1. Add New comments plugin from the Plugins menu. 
 1. Upload the file (choose the vicomi-comments.zip plugin file) to the 'wp-content/plugins/' directory inside of WordPress and then click Install Now. 
@@ -113,6 +113,8 @@ Sorry currently no. But, in the near future you will be able to choose your own 
 * Fix: Small bug. Adding product screenshot.
 = 1.04 =
 * Even faster comments uploading. Changes in the comments moderation page. Additional icons and design. Better facebook comments support.
+= 1.05 =
+* Improved recommendation widget to get higherr click rate and hence higher page-view. New profile page. Faster facebook login.
 
 
 == Upgrade Notice ==
@@ -132,6 +134,8 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.04 =
 * Even faster comments uploading. Changes in the comments moderation page. Additional icons and design. Better facebook comments support.
 
+= 1.05 =
+* Improved recommendation widget to get higherr click rate and hence higher page-view. New profile page. Faster facebook login.
 
 == A brief Markdown Example ==
 
