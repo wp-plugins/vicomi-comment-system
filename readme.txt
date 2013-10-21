@@ -1,12 +1,12 @@
 === Comments by Vicomi ===
 Contributors: Vicomi
 Donate link: http://www.vicomi.com
-Tags: comments, comment, vicomi, comments SEO, disqus, livefyre, facebook comments, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
+Tags: comments, comment, vicomi, add comments, comments SEO, website comments, disqus, livefyre, facebook comments, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
-Tested up to: 3.5.2
-Stable tag: 1.08
+Tested up to: 3.6.1
+Stable tag: 1.09
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -15,7 +15,7 @@ Best comments system. Vicomi new comments system platform: Emotional · Styleable
 Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface. The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
 (internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). A refreshing change than the old disqus or livefyre comments platform!
-The Vicomi comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
+The Vicomi (Vicomi =  Vi • sual + Com • ments) comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
 All comments can be moderated in Vicomi comments moderation dashboard. Comments can be approved or deleted via this system.
 All data (comments) is stored at Vicomi(amazon) servers with no cost.
 
@@ -125,7 +125,10 @@ Yes we do! in the setting tab, in the dashboard website you will find the Spam b
 = 1.07 =
 * Spam blacklist feature. Faster facebook login. 
 = 1.08 =
-* Follow your friends and allow others to follow you, same as twitter/facebook. See your own profile with all of your comments in one place.
+* Follow your friends and allow others to follow you. See your own profile with all of your comments in one place.
+= 1.09 =
+* Minor changes to increase load time. Support ver 3.6.1.
+
 
 == Upgrade Notice ==
 
@@ -156,6 +159,8 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.08 =
 * Follow your friends and allow others to follow you, same as twitter/facebook. See your own profile with all of your comments in one place.
 
+= 1.09 =
+* Minor changes to increase load time. Support ver 3.6.1.
 
 == A brief Markdown Example ==
 
