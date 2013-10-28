@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.6.1
-Stable tag: 1.10
+Stable tag: 1.11
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -130,7 +130,8 @@ Yes we do! in the setting tab, in the dashboard website you will find the Spam b
 * Minor changes to increase load time. Support ver 3.6.1.
 = 1.10 =
 * Readme file small changes.
-
+= 1.11 =
+* Added Gamification options - get credits for each action (writing a comment or voting on a comments). You may see credits in your profile page.
 
 == Upgrade Notice ==
 
@@ -166,6 +167,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.10 =
 * Readme file small changes.
+
+= 1.11 =
+* Added Gamification options - get credits for each action (writing a comment or voting on a comments). You may see credits in your profile page.
 
 == A brief Markdown Example ==
 
