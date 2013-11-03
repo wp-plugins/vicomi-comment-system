@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.6.1
-Stable tag: 1.11
+Stable tag: 1.12
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -43,6 +43,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. 	Free moderation, analytics and admin tools.
 1. 	Spam filtering, URL filtering. Spam blacklist moderation tools.
 1. 	Statistics tools.
+1.  SSL dashboard login
 
 
 == Installation ==
@@ -100,6 +101,9 @@ Sorry currently no. But, in the near future you will be able to choose your own 
 
 Yes we do! in the setting tab, in the dashboard website you will find the Spam blacklist option. Please login and add your Spam blacklist words there.
 
+= Do you have a SSL dashboard login ? = 
+Yes we do have SSL dashboard login (Secure login). Please login to: https://dashboard.vicomi.com/
+
 
 == Screenshots ==
 
@@ -132,6 +136,8 @@ Yes we do! in the setting tab, in the dashboard website you will find the Spam b
 * Readme file small changes.
 = 1.11 =
 * Added Gamification options - get credits for each action (writing a comment or voting on a comments). You may see credits in your profile page.
+= 1.12 =
+* Added SSL dashboard login (Secure login)
 
 == Upgrade Notice ==
 
@@ -170,6 +176,10 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.11 =
 * Added Gamification options - get credits for each action (writing a comment or voting on a comments). You may see credits in your profile page.
+
+= 1.12 =
+* Added SSL dashboard login (Secure login)
+
 
 == A brief Markdown Example ==
 
