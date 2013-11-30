@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.6.1
-Stable tag: 1.13
+Stable tag: 1.14
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -145,6 +145,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Added SSL dashboard login (Secure login)
 = 1.13 =
 * Added grading to profile. Gain grading by posting as many comments. Grading are from 1 point to 5 points. You may see your grading in your profile page.
+= 1.14 =
+* Added gamification new option - gain credits for every vote you make.
 
 
 == Upgrade Notice ==
@@ -190,6 +192,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.13 =
 * Added grading to profile. Gain grading by posting as many comments. Grading are from 1 point to 5 points. You may see your grading in your profile page.
+
+= 1.14 =
+* Added gamification new option - gain credits for every vote you make.
 
 
 == A brief Markdown Example ==
