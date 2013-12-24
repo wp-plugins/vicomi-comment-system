@@ -5,8 +5,8 @@ Tags: comments, comment, vicomi, add comments, comments SEO, website comments, d
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
-Tested up to: 3.6.1
-Stable tag: 1.14
+Tested up to: 3.8
+Stable tag: 1.15
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -147,6 +147,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Added grading to profile. Gain grading by posting as many comments. Grading are from 1 point to 5 points. You may see your grading in your profile page.
 = 1.14 =
 * Added gamification new option - gain credits for every vote you make.
+= 1.15 =
+* Tested up to 3.8 wordpress version. Recommendation widget upgrades. 
 
 
 == Upgrade Notice ==
@@ -195,6 +197,10 @@ Latest version is available. Better installation & Changes in graphics.
 
 = 1.14 =
 * Added gamification new option - gain credits for every vote you make.
+
+= 1.15 =
+* Tested up to 3.8 wordpress version. Recommendation widget upgrades. 
+
 
 
 == A brief Markdown Example ==
