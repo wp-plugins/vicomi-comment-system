@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.8
-Stable tag: 1.16
+Stable tag: 1.17
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -44,7 +44,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. 	Spam filtering, URL filtering. Spam blacklist moderation tools.
 1. 	Statistics tools.
 1.  SSL dashboard loginõ
-1.  Emotion box - allow your user to tag their emotion regarding each comment.
+1.  Smuggies. Smuggies are the number of votes for each comment. Move your mouse over a comment and share your opinion.
 
 
 == Installation ==
@@ -152,6 +152,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Tested up to 3.8 wordpress version. Recommendation widget upgrades. 
 = 1.16 =
 * Added Emotion box tag counter - See how many users tagged their emotions regarding each comment up-front. See the most popular comments at the top of the comment system as default. 
+= 1.17 =
+* Added Smuggies. Changed Default order - See popular first. 
 
 == Upgrade Notice ==
 
@@ -206,6 +208,9 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.16 =
 * Added Emotion box tag counter - See how many users tagged their emotions regarding each comment up-front. See the most popular comments at the top of the comment system as default.
 
+= 1.17 =
+
+* Added Smuggies. Changed Default order - See popular first. 
 
 
 == A brief Markdown Example ==
