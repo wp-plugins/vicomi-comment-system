@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.8
-Stable tag: 1.17
+Stable tag: 1.18
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -43,7 +43,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. 	Free moderation, analytics and admin tools.
 1. 	Spam filtering, URL filtering. Spam blacklist moderation tools.
 1. 	Statistics tools.
-1.  SSL dashboard loginõ
+1.  SSL dashboard login.
 1.  Smuggies. Smuggies are the number of votes for each comment. Move your mouse over a comment and share your opinion.
 
 
@@ -76,7 +76,7 @@ Please go to http://www.vicomi.com
 
 = Can I sign up for free? = 
 
-Yes, you can sign up for free and get your free account and free comment platform.
+Yes, you can sign up for free and get your free account and free comments platform.
 
 = How many comments per article/page can my users write? = 
 
@@ -154,6 +154,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Added Emotion box tag counter - See how many users tagged their emotions regarding each comment up-front. See the most popular comments at the top of the comment system as default. 
 = 1.17 =
 * Added Smuggies. Changed Default order - See popular first. 
+= 1.18 =
+* Performance update. 
 
 == Upgrade Notice ==
 
@@ -211,6 +213,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.17 =
 
 * Added Smuggies. Changed Default order - See popular first. 
+
+= 1.18 =
+
+* Performance update. 
 
 
 == A brief Markdown Example ==
