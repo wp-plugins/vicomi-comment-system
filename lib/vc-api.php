@@ -23,7 +23,7 @@ class VicomiAPI {
 	}
 	
 	function get_user_api_key($username, $password) {
-        $response = $this->call('sign_in.json', array(
+        $response = $this->call('users/sign_in.json', array(
 				'user[email]'    => $username,
 				'user[password]'    => $password,
         ), true);

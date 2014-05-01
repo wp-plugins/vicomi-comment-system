@@ -5,8 +5,8 @@ Tags: comments, comment, vicomi, add comments, comments SEO, website comments, d
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
-Tested up to: 3.8
-Stable tag: 1.18
+Tested up to: 3.9
+Stable tag: 1.19
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -155,7 +155,9 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 = 1.17 =
 * Added Smuggies. Changed Default order - See popular first. 
 = 1.18 =
-* Performance update. 
+* Performance update.
+= 1.19 =
+* Bug fixes and wordpress ver 3.9 support. Adding FeelBacks - See how many users tagged their emotions regarding each comment. 
 
 == Upgrade Notice ==
 
@@ -217,6 +219,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.18 =
 
 * Performance update. 
+
+= 1.19 =
+
+* Bug fixes and wordpress ver 3.9 support. Adding FeelBacks - See how many users tagged their emotions regarding each comment.
 
 
 == A brief Markdown Example ==
