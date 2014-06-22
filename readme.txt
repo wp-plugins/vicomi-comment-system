@@ -6,17 +6,17 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
-Stable tag: 1.19
+Stable tag: 1.20
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
 == Description ==
 
-Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface. The platform presents web-based comments in a visual, 
+Comments platform. Vicomi comments is a FREE comments platform with a new cool, Stylish graphic interface with the best comments moderation tool ever. The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
 (internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). A refreshing change than the old disqus or livefyre comments platform!
 The Vicomi comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
-All comments can be moderated in Vicomi comments moderation dashboard. Comments can be approved or deleted via this system.
+All comments can be moderated in Vicomi comments moderation dashboard site. Comments can be approved or deleted via this system.
 All data (comments) is stored at Vicomi(amazon) servers with no cost.
 
 ** Comments Demo: ** [www.vicomi.com/demo](http://www.vicomi.com/demo) 
@@ -30,7 +30,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. Allowing moderation tools, moderation insights, spam tools.
 1. Comments indexable by search engines (iFrame SEO-friendly).
 1. Attach your feelings to a comment. Create better comments experience. 
-1. Uses the Vicomi API. Give you free admin and analytics tools.
+1. Uses the Vicomi API. Give you free admin and the best moderation & analytics web tools.
 
 = Vicomi Features =
 
@@ -44,7 +44,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. 	Spam filtering, URL filtering. Spam blacklist moderation tools.
 1. 	Statistics tools.
 1.  SSL dashboard login.
-1.  Smuggies. Smuggies are the number of votes for each comment. Move your mouse over a comment and share your opinion.
+1.  Feelbacks. Feelbacks are the number of votes for each comment. Move your mouse over a comment and share your opinion(comment feel-back).
 
 
 == Installation ==
@@ -158,6 +158,9 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Performance update.
 = 1.19 =
 * Bug fixes and wordpress ver 3.9 support. Adding FeelBacks - See how many users tagged their emotions regarding each comment. 
+= 1.20 =
+* Introducing the new feelbacks! Feelbacks are the number of votes for each comment. Move your mouse over a comment and share your opinion.
+
 
 == Upgrade Notice ==
 
@@ -223,6 +226,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.19 =
 
 * Bug fixes and wordpress ver 3.9 support. Adding FeelBacks - See how many users tagged their emotions regarding each comment.
+
+= 1.20 =
+
+* Introducing the new feelbacks! Feelbacks are the number of votes for each comment. Move your mouse over a comment and share your opinion.
 
 
 == A brief Markdown Example ==
