@@ -6,7 +6,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
-Stable tag: 1.20
+Stable tag: 1.21
 
 Best comments system. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -24,19 +24,19 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 = Vicomi for WordPress =
 
 1. Allowing stylish emotional comments.
-1. Not Only is it Free, It increases your users engagement to your website.
-1. Increase page views amount by 3%-10% (more traffic!) thanks to recommendation widget that recommends other content (comments) within your website.
-1. Easy to install, 5 minutes installation! Add comments platform for free.
+1. Not only is it free, it increases user engagement to your website.
+1. Increased page views amount by 3%-10% (more traffic!) thanks to the recommendation widget that recommends other content (comments) within your website.
+1. Easy to install, 5 minute installation! Add this comments platform for free.
 1. Allowing moderation tools, moderation insights, spam tools.
 1. Comments indexable by search engines (iFrame SEO-friendly).
 1. Attach your feelings to a comment. Create better comments experience. 
-1. Uses the Vicomi API. Give you free admin and the best moderation & analytics web tools.
+1. Uses the Vicomi API. Gives you free admin and the best moderation & analytics web tools.
 
 = Vicomi Features =
 
 1. 	Recommendation comments widget for increasing page-views and engagement. 
 1. 	Emotional stylish comments.
-1. 	Facebook connect, Share tools.
+1. 	Facebook connect, share tools.
 1.  Social Network integrated inside - users are able to follow other users or be followed by others.
 1.  Your own profile, where you can see all your comments in one place. 
 1. 	Threaded comments and replies.
@@ -160,7 +160,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Bug fixes and wordpress ver 3.9 support. Adding FeelBacks - See how many users tagged their emotions regarding each comment. 
 = 1.20 =
 * Introducing the new feelbacks! Feelbacks are the number of votes for each comment. Move your mouse over a comment and share your opinion.
-
+= 1.21 =
+* Minor bug fixes
 
 == Upgrade Notice ==
 
@@ -230,6 +231,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.20 =
 
 * Introducing the new feelbacks! Feelbacks are the number of votes for each comment. Move your mouse over a comment and share your opinion.
+
+= 1.21 =
+
+* Minor bug fixes
 
 
 == A brief Markdown Example ==
