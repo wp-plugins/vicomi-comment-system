@@ -1,12 +1,13 @@
-=== Comments by Vicomi ===
+=== Comments - wordpress plugin by Vicomi ===
 Contributors: Vicomi
 Donate link: http://www.vicomi.com
-Tags: comments, widget, comment, moderation, commenting, comments spam, vicomi, add comments, comments SEO, website comments, disqus, livefyre, facebook comments, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
+Tags: comments, comment, commenting, comment form, widget, moderation, comments spam, vicomi, add comments, comments SEO, website comments, disqus, livefyre, facebook comments, emotions, emoticons, spam, anti spam, engagement, recommendations, recommendation widget, avatars, visual comments, community, email, notification, profile, threaded, widget, tools 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
-Stable tag: 1.23
+Tested up to: 3.9
+Stable tag: 1.24
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -23,7 +24,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 
 = Vicomi for WordPress =
 
-1. Allowing stylish emotional comments.
+1. Allowing stylish emotional comments. 
 1. Not only is it free, it increases user engagement to your website.
 1. Increased page views amount by 3%-10% (more traffic!) thanks to the recommendation widget that recommends other content (comments) within your website.
 1. Easy to install, 5 minute installation! Add this comments platform for free.
@@ -31,6 +32,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. Comments indexable by search engines (iFrame SEO-friendly).
 1. Attach your feelings to a comment. Create better comments experience. 
 1. Uses the Vicomi API. Gives you free admin and the best moderation & analytics web tools.
+1. Add comments in few minutes.
 
 = Vicomi Features =
 
@@ -165,7 +167,9 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 = 1.22 =
 * Profile changes - Follow other users, allow other users to follow you.
 = 1.23 =
-* Moderation improvements - GUI improvements and minor bug fixes. 
+* Moderation improvements - GUI improvements and minor bug fixes.
+= 1.24 =
+* New graphs at the Moderation page - Get more insights.
 
 
 == Upgrade Notice ==
@@ -248,6 +252,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.23 =
 
 * Moderation improvements - GUI improvements and minor bug fixes.
+
+= 1.24 =
+
+* New graphs at the Moderation page - Get more insights 
 
 
 == A brief Markdown Example ==
