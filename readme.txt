@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.25
+Stable tag: 1.26
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -44,7 +44,8 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. 	Threaded comments and replies.
 1. 	Free moderation, analytics and admin tools.
 1. 	Spam filtering, URL filtering. Spam blacklist moderation tools.
-1. 	Statistics tools.
+1. 	Statistics and comments analytics tools.
+1.  Customize and optimize comments in WordPress.
 1.  SSL dashboard login.
 1.  Feelbacks. Feelbacks are the number of votes for each comment. Move your mouse over a comment and share your opinion(comment feel-back).
 
@@ -54,7 +55,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 Installation
 
 1. Download Vicomi Comments plugin file to add comments to your website. 
-1. In your WP Admin panel click on Plugins (Admin menu on the left) 
+1. In your WP Admin panel click on Plugins (Admin menu on the left). 
 1. Add New comments plugin from the Plugins menu. 
 1. Upload the file (choose the vicomi-comments.zip plugin file) to the 'wp-content/plugins/' directory inside of WordPress and then click Install Now. 
 1. After the comments plugin installation has completed, click Activate comments Plugin. 
@@ -172,6 +173,9 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * New graphs at the Moderation page - Get more insights.
 = 1.25 =
 * Changes at Moderation site - Addded search option - you may search for a comment/spam comment and delete it.
+= 1.26 =
+* Added Comments Analytics - see the most funny, angry (and the like) comments - At the moderation main page.
+
 
 
 == Upgrade Notice ==
@@ -262,6 +266,11 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.25 =
 
 * Changes at Moderation site - Addded search option - you may search for a comment/spam comment and delete it
+
+= 1.26 =
+
+* Added Comments Analytics - see the most funny, angry (and the like) comments - At the moderation main page.
+
 
 
 == A brief Markdown Example ==
