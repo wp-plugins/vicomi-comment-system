@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.28
+Stable tag: 1.29
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -179,6 +179,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Added new design options - choose your own design soon, Have a faster login sign-in now.
 = 1.28 =
 * New graphs on the analytics tools.
+= 1.29 =
+* Multi Users that can be allowed to moderate comments in the same time in the moderation site.
 
 
 
@@ -283,7 +285,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 * New graphs on the analytics tools.
 
+= 1.29 =
 
+* Multi Users that can be allowed to moderate comments in the same time in the moderation site.
 
 
 == A brief Markdown Example ==
