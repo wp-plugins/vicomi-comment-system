@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.29
+Stable tag: 1.30
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -33,6 +33,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. Attach your feelings to a comment. Create better comments experience. 
 1. Uses the Vicomi API. Gives you free admin and the best moderation & analytics web tools.
 1. Add comments in few minutes.
+1. Customize and optimize comments in WordPress with a cool visual platform. 
 
 = Vicomi Features =
 
@@ -181,7 +182,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * New graphs on the analytics tools.
 = 1.29 =
 * Multi Users that can be allowed to moderate comments in the same time in the moderation site.
-
+= 1.30 =
+* German language support.
 
 
 == Upgrade Notice ==
@@ -288,6 +290,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.29 =
 
 * Multi Users that can be allowed to moderate comments in the same time in the moderation site.
+
+= 1.30 =
+
+* German language support.
 
 
 == A brief Markdown Example ==
