@@ -83,7 +83,7 @@ if ($phase == 2 && isset($_POST['vc_un']) && isset($_POST['vc_ps']) ) {
             <h2>Install Vicomi</h2>
 			<p>In order to activate Vicomi comment platform you need to have a Vicomi moderation account.</p>
 			<p>Please fill in the fields below with your account credentials.</p>
-			<p>If you don't have one, click <a href="http://vicomi.com" target="_blank">here</a> to create.</p>
+			<p>If you don't have one, click <a href="http://vicomi.com/products/comments/register" target="_blank">here</a> to create.</p>
 			
             <form method="POST" action="?page=vicomi&amp;phase=2">
             <?php wp_nonce_field('vicomi-install-1'); ?>

@@ -7,13 +7,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.31
+Stable tag: 1.32
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
 == Description ==
 
-Vicomi comments platform. Vicomi comments is a FREE comments platform. Comments with a new cool, Stylish graphic interface with the best comments moderation tool ever. The platform presents web-based comments in a visual, 
+Vicomi comments platform. Vicomi comments is a FREE comments platform. Comments with a new cool, Stylish graphic interface with the best comments moderation tool ever. NEW - Choose your own comments design. The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
 (internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). A refreshing change than the old disqus or livefyre comments platform!
 The Vicomi comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
@@ -25,6 +25,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 = Vicomi for WordPress =
 
 1. Allowing stylish emotional comments. 
+1. Choose your comments design! When you register - choose your comments platform design for your own needs.
 1. Not only is it free, it increases user engagement to your website.
 1. Increased page views amount by 3%-10% (more traffic!) thanks to the recommendation widget that recommends other content (comments) within your website.
 1. Easy to install, 5 minute installation! Add this comments platform for free.
@@ -33,7 +34,7 @@ All data (comments) is stored at Vicomi(amazon) servers with no cost.
 1. Attach your feelings to a comment. Create better comments experience. 
 1. Uses the Vicomi API. Gives you free admin and the best moderation & analytics web tools.
 1. Add comments in few minutes.
-1. Customize and optimize comments in WordPress with a cool visual platform. 
+1. Customize and optimize comments and desdign in WordPress with a cool visual platform. 
 
 = Vicomi Features =
 
@@ -186,6 +187,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * German language support.
 = 1.31 =
 * Spanish language support.
+= 1.32 =
+* Choose your comments design from some of our templates! New!
 
 
 == Upgrade Notice ==
@@ -300,6 +303,10 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.31 =
 
 * Spanish language support.
+
+= 1.32 =
+
+* Choose your comments design from some of our templates! New!
 
 
 == A brief Markdown Example ==
