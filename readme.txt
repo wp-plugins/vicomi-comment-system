@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.32
+Stable tag: 1.33
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -20,7 +20,7 @@ The Vicomi comments plugin for wordpress plugin seamlessly integrates using the 
 All comments can be moderated in Vicomi comments moderation dashboard site. Comments can be approved or deleted via this system.
 All data (comments) is stored at Vicomi(amazon) servers with no cost.
 
-** Comments Demo: ** [www.vicomi.com/demo](http://www.vicomi.com/demo) 
+** Comments Demo: ** [vicomi.com/products/comments/demo](http://www.vicomi.com/products/comments/demo) 
 
 = Vicomi for WordPress =
 
@@ -189,6 +189,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Spanish language support.
 = 1.32 =
 * Choose your comments design from some of our templates! New!
+= 1.33 =
+* More design templates! New! (updating demo links)
 
 
 == Upgrade Notice ==
@@ -307,6 +309,11 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.32 =
 
 * Choose your comments design from some of our templates! New!
+
+= 1.33 =
+
+* More design templates! New! (updating demo links)
+
 
 
 == A brief Markdown Example ==
