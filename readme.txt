@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.34
+Stable tag: 1.35
 
 Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
@@ -194,6 +194,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * More design templates! New! (updating demo links)
 = 1.34 =
 * Fast installation process - Now, within your wordpress plugin!
+= 1.35 =
+* Fast installation process - Now, within your wordpress plugin! + Minor Changes.
 
 == Upgrade Notice ==
 
@@ -319,6 +321,11 @@ Latest version is available. Better installation & Changes in graphics.
 = 1.34 =
 
 * Fast installation process - Now, within your wordpress plugin!
+
+= 1.35 =
+
+* Fast installation process - Now, within your wordpress plugin! + Minor Changes.
+
 
 
 
