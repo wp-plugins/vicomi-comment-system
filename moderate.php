@@ -48,9 +48,9 @@ if ( isset($_POST['vc_api_key']) ) {
 //$vicomi_api_key = isset($_POST['vicomi_api_key']) ? strip_tags($_POST['vicomi_api_key']) : null;
 
 
-$login_url = 'http://cms.vicomi.com?platform=wordpress&wt=0';
+$login_url = 'http://cms.vicomi.com?platform=wordpress&wt=0&uid='.get_option('vicomi_comments_uuid');
 $moderation_url = 'http://dashboard.vicomi.com/';
-//$login_url = 'http://localhost:9002?platform=wordpress&wt=0';
+//$login_url = 'http://localhost:9002?platform=wordpress&wt=0&uid='.get_option('vicomi_comments_uuid');
 //$moderation_url = 'http://localhost:9000/';
 
 if (vicomi_comments_is_installed()) {

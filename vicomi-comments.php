@@ -11,6 +11,11 @@ Author URI: http://vicomi.com/
 require_once(dirname(__FILE__) . '/lib/vc-api.php');
 define('VICOMI_COMMENTS_V', '1.0');
 
+// set unique id
+if(!get_option('vicomi_comments_uuid')) {
+    update_option('vicomi_comments_uuid', vccGetGUID());
+}
+
 function vicomi_comments_plugin_basename($file) {
     $file = dirname($file);
 
@@ -47,17 +52,17 @@ function vicomi_comments_is_installed() {
 // register plugin events
 function vicomi_comments_activate() {
     $vicomi_comments_api = new VicomiAPI();
-    $vicomi_comments_api->plugin_activate(get_option('vicomi_comments_api_key'), 'comments');
+    $vicomi_comments_api->plugin_activate(get_option('vicomi_comments_api_key'), 'comments', get_option('vicomi_comments_uuid'));
 }
 
 function vicomi_comments_deactivate() {
     $vicomi_comments_api = new VicomiAPI();
-    $vicomi_comments_api->plugin_deactivate(get_option('vicomi_comments_api_key'), 'comments');
+    $vicomi_comments_api->plugin_deactivate(get_option('vicomi_comments_api_key'), 'comments', get_option('vicomi_comments_uuid'));
 }
 
 function vicomi_comments_uninstall() {
     $vicomi_comments_api = new VicomiAPI();
-    $vicomi_comments_api->plugin_uninstall(get_option('vicomi_comments_api_key'), 'comments');
+    $vicomi_comments_api->plugin_uninstall(get_option('vicomi_comments_api_key'), 'comments', get_option('vicomi_comments_uuid'));
 }
 
 register_activation_hook( __FILE__, 'vicomi_comments_activate' );
@@ -350,6 +355,25 @@ if(!function_exists('cf_json_encode')) {
             $json_str = '"'. cfjson_encode_string($arr) . '"';
         }
         return $json_str;
+    }
+}
+
+// generate unique id
+function vccGetGUID(){
+    if (function_exists('com_create_guid')){
+        return com_create_guid();
+    }else{
+        mt_srand((double)microtime()*10000);//optional for php 4.2.0 and up.
+        $charid = strtoupper(md5(uniqid(rand(), true)));
+        $hyphen = chr(45);// "-"
+        $uuid = chr(123)// "{"
+            .substr($charid, 0, 8).$hyphen
+            .substr($charid, 8, 4).$hyphen
+            .substr($charid,12, 4).$hyphen
+            .substr($charid,16, 4).$hyphen
+            .substr($charid,20,12)
+            .chr(125);// "}"
+        return $uuid;
     }
 }
 

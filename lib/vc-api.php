@@ -41,12 +41,13 @@ if(!class_exists('VicomiAPI')) {
 
 	    }
 
-	    function plugin_activate($access_token, $plugin_type) {
+	    function plugin_activate($access_token, $plugin_type, $uid) {
 
 	    	$params = array(
 					'platform'    => 'wordpress',
 					'event'    => 'activate',
-					'plugin' => $plugin_type);
+					'plugin' => $plugin_type,
+					'uid'    => $uid);
 
 	    	if($access_token && $access_token != undefined) {
 	    		$params['access_token'] = $access_token;
@@ -57,11 +58,12 @@ if(!class_exists('VicomiAPI')) {
 
 	    }
 
-	    function plugin_deactivate($access_token, $plugin_type) {
+	    function plugin_deactivate($access_token, $plugin_type, $uid) {
 	        $params = array(
 					'platform'    => 'wordpress',
 					'event'    => 'deactivate',
-					'plugin' => $plugin_type);
+					'plugin' => $plugin_type,
+					'uid'    => $uid);
 
 	    	if($access_token && $access_token != undefined) {
 	    		$params['access_token'] = $access_token;
@@ -71,11 +73,12 @@ if(!class_exists('VicomiAPI')) {
 	        return $response;
 	    }
 
-	    function plugin_uninstall($access_token, $plugin_type) {
+	    function plugin_uninstall($access_token, $plugin_type, $uid) {
 	       $params = array(
 					'platform'    => 'wordpress',
 					'event'    => 'uninstall',
-					'plugin' => $plugin_type);
+					'plugin' => $plugin_type,
+					'uid'    => $uid);
 
 	    	if($access_token && $access_token != undefined) {
 	    		$params['access_token'] = $access_token;
