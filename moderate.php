@@ -115,21 +115,28 @@ window.vcPostMessageService.listen(function(e) {
 
     var api_key_message_prefix = "vicomi:cms:apikey:";
     var finish_message_prefix = "vicomi:cms:finish";
+    var api_key_and_finish_message_prefix = "vicomi:cms:apikeyfinish:";
 
-    if(event.data.indexOf(api_key_message_prefix) > -1) {
+    if(e.data.indexOf(api_key_message_prefix) > -1) {
 
-        var apiKey = event.data.replace(api_key_message_prefix, "");
-        updateApiKey(apiKey);
+        var apiKey = e.data.replace(api_key_message_prefix, "");
+        updateApiKey(apiKey, false);
     }
 
-    if(event.data.indexOf(finish_message_prefix) > -1) {
+    if(e.data.indexOf(finish_message_prefix) > -1) {
 
         reload();
     }
 
+    if(e.data.indexOf(api_key_and_finish_message_prefix) > -1) {
+
+        var apiKey = e.data.replace(api_key_and_finish_message_prefix, "");
+        updateApiKey(apiKey, true);
+    }
+
  });
 
-function updateApiKey(apiKey) {
+function updateApiKey(apiKey, doReload) {
 
     // submit form
     jQuery.ajax({
@@ -138,7 +145,9 @@ function updateApiKey(apiKey) {
         data: {vc_api_key: apiKey},
         cache: false,
         success: function(result){
-
+            if(doReload) {
+                reload();
+            }
         }
     });
 }
