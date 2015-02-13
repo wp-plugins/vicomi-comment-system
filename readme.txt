@@ -7,13 +7,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8 or higher
 Tested up to: 3.9
 Tested up to: 3.9
-Stable tag: 1.38
+Stable tag: 1.39
 
-Best comments system online. Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
+Comments Platform for free! Vicomi new comments system platform: Emotional · Styleable · Personalized · Free . Users can write comments and tag their emotions.
 
 == Description ==
 
-Vicomi comments platform. Vicomi comments is a FREE comments platform. Comments with a new cool, Stylish graphic interface with the best comments moderation tool ever. NEW - Choose your own comments design. The platform presents web-based comments in a visual, 
+Free comments platform. Vicomi comments is a FREE comments platform. Comments with a new cool, Stylish graphic interface with the best comments moderation tool ever. NEW - Choose your own comments design. The platform presents web-based comments in a visual, 
 interactive and personalized manner for the first time; helping your website to increase session time, engagement, retention, stickiness and page views amount 
 (internal site circulation) while giving readers the benefit of a more meaningful and relevant commenting experience (better comments). A refreshing change than the old disqus or livefyre comments platform!
 The Vicomi comments plugin for wordpress plugin seamlessly integrates using the Vicomi API and disable all spam comments at once. Add comments platform in minutes!
@@ -202,6 +202,8 @@ In order to do it please log on to "Settings" inside the moderation website (htt
 * Fast Moderation process - moderate your comments much faster!
 = 1.38 =
 * New design options - choose new design
+= 1.39 =
+* Adding profile options
 
 
 == Upgrade Notice ==
@@ -345,6 +347,9 @@ Latest version is available. Better installation & Changes in graphics.
 
 * New design options - choose new design
 
+= 1.39 =
+
+* Adding profile options
 
 == A brief Markdown Example ==
 

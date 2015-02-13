@@ -4,7 +4,7 @@ Plugin Name: Vicomi
 Plugin URI: http://vicomi.com/
 Description: Vicomi comments is a free comment platform with a new cool, stylish graphic interface that replaces your default WordPress comment system. 
 Author: Vicomi <support@vicomi.com>
-Version: 1.0
+Version: 1.39
 Author URI: http://vicomi.com/
 */
 
